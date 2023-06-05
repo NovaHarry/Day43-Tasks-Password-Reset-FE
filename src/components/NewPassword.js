@@ -11,6 +11,8 @@ function NewPassword() {
   let [password, setPassword] = useState("");
 
   let { randomString } = useParams();
+
+  let navigate = useNavigate();
   
 
   let handlePassword = async()=>{

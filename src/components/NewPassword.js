@@ -4,7 +4,7 @@ import Form from 'react-bootstrap/Form';
 import { toast } from 'react-toastify';
 import { url } from '../App';
 import axios from 'axios';
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 
 function NewPassword() {
 

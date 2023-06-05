@@ -25,7 +25,7 @@ function ForgotPassword() {
   return (
 
     <div className='login-wrapper'>
-      <h1 style={{"textAlign":"center"}}>Login Page</h1>
+      <h1 style={{"textAlign":"center"}}>Reset your Password Page</h1>
     <Form>
       <Form.Group className="mb-3" controlId="formBasicEmail">
         <Form.Label>Email address</Form.Label>

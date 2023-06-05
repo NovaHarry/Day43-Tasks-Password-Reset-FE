@@ -1,0 +1,12 @@
+.login-wrapper{
+    width:40%;
+    margin:auto;
+}
+
+.title{
+    text-align: center;
+}
+.buttons{
+    display: flex;
+    justify-content: space-around;
+}
